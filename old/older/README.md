@@ -1,8 +1,4 @@
-# DSA-project
-
-Data Structures &amp; Algorithms Semester Project for 3rd Semester Fall-2K23. Group Members: Muhammad Mahad, Amna Khan, and Kaif ul Imaan.
-
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
