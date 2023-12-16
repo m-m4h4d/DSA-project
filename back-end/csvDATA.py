@@ -326,4 +326,5 @@ def points_are_a_diagonal(p1,p2):
        return False
    if p2[1]-p1[1]==0:
        return False
+     
    return True

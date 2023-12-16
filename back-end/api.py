@@ -17,7 +17,7 @@ if run_this_cell == True:
     import substring
 
     # Replace this with your console.google.com API key
-    key = "<PUT YOUR CONSOLE.GOOGLE.COM API KEY HERE>"
+    key = "AIzaSyC6yyJ9x2QijsBFpyB2N0YMK_LszR9OLl4"
 
     # extract elevation float from the API data output string
     def extract_float_from_API_string(my):
